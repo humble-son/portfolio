@@ -138,12 +138,12 @@ export default function Contact() {
                 Or reach out directly:
               </p>
               <motion.a
-                href="mailto:contact@example.com"
+                href="mailto:abassibrahimtunde@gmail.com"
                 className="flex items-center justify-center gap-2 text-primary hover:text-primary/80 font-medium transition-colors"
                 whileHover={{ scale: 1.05 }}
               >
                 <Mail size={18} />
-                contact@profbass.com
+                abassibrahimtunde@gmail.com
               </motion.a>
             </div>
           </Card>
