@@ -17,17 +17,17 @@ interface Project {
 }
 
 const projects: Project[] = [
-  {
-    id: 1,
-    title: "SchoolHubX",
-    highlight: "Multi-tenant SaaS, Go Fiber, MongoDB Transactions",
-    description:
-      "A comprehensive school management platform with real-time communication, grade management, and parent-teacher interaction.",
-    tags: ["Go", "Fiber", "MongoDB", "React", "Docker"],
-    github: "#",
-    live: "#",
-    size: "small",
-  },
+  // {
+  //   id: 1,
+  //   title: "SchoolHubX",
+  //   highlight: "Multi-tenant SaaS, Go Fiber, MongoDB Transactions",
+  //   description:
+  //     "A comprehensive school management platform with real-time communication, grade management, and parent-teacher interaction.",
+  //   tags: ["Go", "Fiber", "MongoDB", "React", "Docker"],
+  //   github: "#",
+  //   live: "#",
+  //   size: "small",
+  // },
   {
     id: 2,
     title: "StudyBuddy AI",
